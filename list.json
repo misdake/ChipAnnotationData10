@@ -1,2 +1,18 @@
 [
+  {
+    "vendor": "Hygon",
+    "type": "GPU",
+    "family": "",
+    "name": "Kongming",
+    "listname": "Kongming",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Kongming"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ampere",
+    "name": "GA107",
+    "listname": "GA107",
+    "url": "https://misdake.github.io/ChipAnnotationData10/GA107"
+  }
 ]
