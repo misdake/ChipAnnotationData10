@@ -8,6 +8,22 @@
     "url": "https://misdake.github.io/ChipAnnotationData10/Kongming"
   },
   {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "ArrowLake",
+    "name": "ArrowLake_HiRes",
+    "listname": "ArrowLake_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData10/ArrowLake_HiRes"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
+    "family": "LunarLake",
+    "name": "LunarLake_HiRes",
+    "listname": "LunarLake_HiRes",
+    "url": "https://misdake.github.io/ChipAnnotationData10/LunarLake_HiRes"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ampere",

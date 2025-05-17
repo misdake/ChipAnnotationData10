@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "ArrowLake",
+  "name": "ArrowLake_HiRes",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 3,
+  "source": "https://www.flickr.com/photos/130561288@N04/54493708679",
+  "createTime": "May 17, 2025 1:07:58 PM",
+  "width": 22357,
+  "height": 10198,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 44,
+      "yMax": 20
+    },
+    {
+      "level": 1,
+      "xMax": 22,
+      "yMax": 10
+    },
+    {
+      "level": 2,
+      "xMax": 11,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 6,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}

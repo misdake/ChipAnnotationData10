@@ -1,0 +1,48 @@
+{
+  "vendor": "Intel",
+  "type": "CPU",
+  "family": "LunarLake",
+  "name": "LunarLake_HiRes",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 4,
+  "source": "https://www.flickr.com/photos/130561288@N04/54493875686",
+  "createTime": "May 17, 2025 1:10:28 PM",
+  "width": 14576,
+  "height": 11352,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 29,
+      "yMax": 23
+    },
+    {
+      "level": 1,
+      "xMax": 15,
+      "yMax": 12
+    },
+    {
+      "level": 2,
+      "xMax": 8,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
