@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Ada",
+  "name": "AD103",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 5,
+  "source": "https://github.com/msdurex/dieshot/tree/main/Nvidia/Nvidia%20GeForce%20RTX%2040%20Series/RTX%204080",
+  "createTime": "May 18, 2025 12:13:05 PM",
+  "width": 14001,
+  "height": 8826,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 28,
+      "yMax": 18
+    },
+    {
+      "level": 1,
+      "xMax": 14,
+      "yMax": 9
+    },
+    {
+      "level": 2,
+      "xMax": 7,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 24.76,
+  "heightMillimeter": 15.59
+}

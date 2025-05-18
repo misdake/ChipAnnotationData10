@@ -26,9 +26,25 @@
   {
     "vendor": "nVIDIA",
     "type": "GPU",
+    "family": "Ada",
+    "name": "AD103",
+    "listname": "AD103",
+    "url": "https://misdake.github.io/ChipAnnotationData10/AD103"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
     "family": "Ampere",
     "name": "GA107",
     "listname": "GA107",
     "url": "https://misdake.github.io/ChipAnnotationData10/GA107"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Blackwell",
+    "name": "GB203",
+    "listname": "GB203",
+    "url": "https://misdake.github.io/ChipAnnotationData10/GB203"
   }
 ]
