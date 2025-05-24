@@ -24,6 +24,22 @@
     "url": "https://misdake.github.io/ChipAnnotationData10/LunarLake_HiRes"
   },
   {
+    "vendor": "Intel",
+    "type": "GPU",
+    "family": "DG1",
+    "name": "DG1",
+    "listname": "DG1",
+    "url": "https://misdake.github.io/ChipAnnotationData10/DG1"
+  },
+  {
+    "vendor": "Intel",
+    "type": "GPU",
+    "family": "DG2",
+    "name": "DG2-128",
+    "listname": "DG2-128",
+    "url": "https://misdake.github.io/ChipAnnotationData10/DG2-128"
+  },
+  {
     "vendor": "nVIDIA",
     "type": "GPU",
     "family": "Ada",

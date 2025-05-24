@@ -1,0 +1,38 @@
+{
+  "vendor": "Intel",
+  "type": "GPU",
+  "family": "DG2",
+  "name": "DG2-128",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 7,
+  "source": "https://seedmediastudio.com/dieshot/67acd35accb04dcde3c97c17",
+  "createTime": "May 24, 2025 12:55:08 AM",
+  "width": 2691,
+  "height": 2560,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 0.0,
+  "heightMillimeter": 0.0
+}
