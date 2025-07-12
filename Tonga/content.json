@@ -1,0 +1,48 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN3",
+  "name": "Tonga",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 10,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Jul 12, 2025 10:52:56 AM",
+  "width": 9645,
+  "height": 11858,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 19,
+      "yMax": 24
+    },
+    {
+      "level": 1,
+      "xMax": 10,
+      "yMax": 12
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 6
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 17.47,
+  "heightMillimeter": 21.4
+}

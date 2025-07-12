@@ -1,0 +1,43 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Jaguar+GCN2",
+  "name": "Kabini",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 9,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Jul 12, 2025 10:50:51 AM",
+  "width": 7517,
+  "height": 7478,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 15,
+      "yMax": 15
+    },
+    {
+      "level": 1,
+      "xMax": 8,
+      "yMax": 8
+    },
+    {
+      "level": 2,
+      "xMax": 4,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 10.28,
+  "heightMillimeter": 10.2
+}

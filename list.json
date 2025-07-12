@@ -1,5 +1,21 @@
 [
   {
+    "vendor": "AMD",
+    "type": "CPU",
+    "family": "Jaguar+GCN2",
+    "name": "Kabini",
+    "listname": "Kabini",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Kabini"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN3",
+    "name": "Tonga",
+    "listname": "Tonga",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Tonga"
+  },
+  {
     "vendor": "Hygon",
     "type": "GPU",
     "family": "",
