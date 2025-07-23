@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen5",
+  "name": "Turin_IOD",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 13,
+  "source": "http://dieshot.com/index.php/2025/07/23/amd-ryzen-threadripper-pro-9995wx/",
+  "createTime": "Jul 23, 2025 1:34:58 PM",
+  "width": 2496,
+  "height": 1578,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 1,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 25.94,
+  "heightMillimeter": 16.45
+}
