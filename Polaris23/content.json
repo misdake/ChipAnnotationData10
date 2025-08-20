@@ -1,0 +1,48 @@
+{
+  "vendor": "ATI/AMD",
+  "type": "GPU",
+  "family": "GCN4",
+  "name": "Polaris23",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 14,
+  "source": "https://www.bilibili.com/video/BV1a3tAzSEyq",
+  "createTime": "Aug 20, 2025 5:02:33 PM",
+  "width": 9608,
+  "height": 6875,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 19,
+      "yMax": 14
+    },
+    {
+      "level": 1,
+      "xMax": 10,
+      "yMax": 7
+    },
+    {
+      "level": 2,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 12.06,
+  "heightMillimeter": 8.65
+}

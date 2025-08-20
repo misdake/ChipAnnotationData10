@@ -10,6 +10,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen4",
+    "name": "Genoa_IOD",
+    "listname": "Genoa_IOD",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Genoa_IOD"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen5",
     "name": "Turin_IOD",
     "listname": "Turin_IOD",
@@ -22,6 +30,14 @@
     "name": "Tonga",
     "listname": "Tonga",
     "url": "https://misdake.github.io/ChipAnnotationData10/Tonga"
+  },
+  {
+    "vendor": "ATI/AMD",
+    "type": "GPU",
+    "family": "GCN4",
+    "name": "Polaris23",
+    "listname": "Polaris23",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Polaris23"
   },
   {
     "vendor": "Hygon",
@@ -86,6 +102,14 @@
     "name": "AD103",
     "listname": "AD103",
     "url": "https://misdake.github.io/ChipAnnotationData10/AD103"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ada",
+    "name": "AD107",
+    "listname": "AD107",
+    "url": "https://misdake.github.io/ChipAnnotationData10/AD107"
   },
   {
     "vendor": "nVIDIA",

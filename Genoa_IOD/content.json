@@ -1,0 +1,38 @@
+{
+  "vendor": "AMD",
+  "type": "CPU",
+  "family": "Zen4",
+  "name": "Genoa_IOD",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 16,
+  "source": "https://seedmediastudio.com/dieshot/68a1593b541df7c102b231c0",
+  "createTime": "Aug 20, 2025 5:08:37 PM",
+  "width": 4000,
+  "height": 2556,
+  "tileSize": 512,
+  "maxLevel": 3,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 8,
+      "yMax": 5
+    },
+    {
+      "level": 1,
+      "xMax": 4,
+      "yMax": 3
+    },
+    {
+      "level": 2,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 24.93,
+  "heightMillimeter": 15.84
+}
