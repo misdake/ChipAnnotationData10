@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Volta",
+  "name": "NVSwitch",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 18,
+  "source": "https://www.bilibili.com/video/BV1hqaKzPEF6",
+  "createTime": "Sep 9, 2025 1:20:05 PM",
+  "width": 16522,
+  "height": 3396,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 33,
+      "yMax": 7
+    },
+    {
+      "level": 1,
+      "xMax": 17,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 9,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 1
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 23.65,
+  "heightMillimeter": 4.84
+}

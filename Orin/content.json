@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "SoC",
+  "family": "",
+  "name": "Orin",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 19,
+  "source": "https://www.bilibili.com/video/BV1dgskeYEFm/?spm_id_from\u003d333.1387.search.video_card.click\u0026vd_source\u003d75a05098d0df397b0890c111478223de",
+  "createTime": "Sep 9, 2025 1:21:36 PM",
+  "width": 10427,
+  "height": 9472,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 21,
+      "yMax": 19
+    },
+    {
+      "level": 1,
+      "xMax": 11,
+      "yMax": 10
+    },
+    {
+      "level": 2,
+      "xMax": 6,
+      "yMax": 5
+    },
+    {
+      "level": 3,
+      "xMax": 3,
+      "yMax": 3
+    },
+    {
+      "level": 4,
+      "xMax": 2,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 22.21,
+  "heightMillimeter": 20.16
+}

@@ -10,6 +10,14 @@
   {
     "vendor": "AMD",
     "type": "CPU",
+    "family": "Zen2+RDNA2",
+    "name": "Mendocino",
+    "listname": "Mendocino",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Mendocino"
+  },
+  {
+    "vendor": "AMD",
+    "type": "CPU",
     "family": "Zen4",
     "name": "Genoa_IOD",
     "listname": "Genoa IOD",
@@ -126,5 +134,29 @@
     "name": "GB203",
     "listname": "GB203",
     "url": "https://misdake.github.io/ChipAnnotationData10/GB203"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Volta",
+    "name": "NVSwitch",
+    "listname": "NVSwitch",
+    "url": "https://misdake.github.io/ChipAnnotationData10/NVSwitch"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "",
+    "name": "Orin",
+    "listname": "Orin",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Orin"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "SoC",
+    "family": "",
+    "name": "Thor",
+    "listname": "Thor",
+    "url": "https://misdake.github.io/ChipAnnotationData10/Thor"
   }
 ]

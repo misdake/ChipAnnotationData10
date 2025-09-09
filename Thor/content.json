@@ -1,0 +1,48 @@
+{
+  "vendor": "nVIDIA",
+  "type": "SoC",
+  "family": "",
+  "name": "Thor",
+  "githubRepo": "misdake/ChipAnnotationData10",
+  "githubIssueId": 17,
+  "source": "https://space.bilibili.com/374034429/dynamic",
+  "createTime": "Sep 9, 2025 1:18:17 PM",
+  "width": 20472,
+  "height": 12514,
+  "tileSize": 512,
+  "maxLevel": 5,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 40,
+      "yMax": 25
+    },
+    {
+      "level": 1,
+      "xMax": 20,
+      "yMax": 13
+    },
+    {
+      "level": 2,
+      "xMax": 10,
+      "yMax": 7
+    },
+    {
+      "level": 3,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 4,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 5,
+      "xMax": 2,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 25.6,
+  "heightMillimeter": 15.71
+}
