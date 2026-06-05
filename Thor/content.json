@@ -5,7 +5,7 @@
   "name": "Thor",
   "githubRepo": "misdake/ChipAnnotationData10",
   "githubIssueId": 17,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "https://www.bilibili.com/video/BV1TPnfz7Efp",
   "createTime": "Sep 9, 2025 1:18:17 PM",
   "width": 20472,
   "height": 12514,
@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 25.6,
-  "heightMillimeter": 15.71
+  "heightMillimeter": 15.71,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/jetson-agx-xavier-32-gb.c4088"
 }

@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 22.21,
-  "heightMillimeter": 20.16
+  "heightMillimeter": 20.16,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/jetson-agx-orin-64-gb.c4085"
 }

@@ -5,7 +5,7 @@
   "name": "Kabini",
   "githubRepo": "misdake/ChipAnnotationData10",
   "githubIssueId": 9,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "",
   "createTime": "Jul 12, 2025 10:50:51 AM",
   "width": 7517,
   "height": 7478,
@@ -39,5 +39,8 @@
     }
   ],
   "widthMillimeter": 10.28,
-  "heightMillimeter": 10.2
+  "heightMillimeter": 10.2,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/cpu-specs/a6-5200.c1711"
 }

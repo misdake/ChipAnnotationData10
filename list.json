@@ -4,7 +4,6 @@
     "type": "CPU",
     "family": "Jaguar+GCN2",
     "name": "Kabini",
-    "listname": "Kabini",
     "url": "https://misdake.github.io/ChipAnnotationData10/Kabini"
   },
   {
@@ -12,7 +11,6 @@
     "type": "CPU",
     "family": "Zen2+RDNA2",
     "name": "Mendocino",
-    "listname": "Mendocino",
     "url": "https://misdake.github.io/ChipAnnotationData10/Mendocino"
   },
   {
@@ -28,15 +26,14 @@
     "type": "CPU",
     "family": "Zen5",
     "name": "Turin_IOD",
-    "listname": "Turin_IOD",
-    "url": "https://misdake.github.io/ChipAnnotationData10/Turin_IOD"
+    "url": "https://misdake.github.io/ChipAnnotationData10/Turin_IOD",
+    "listname": "Turin IOD"
   },
   {
     "vendor": "ATI/AMD",
     "type": "GPU",
     "family": "GCN3",
     "name": "Tonga",
-    "listname": "Tonga",
     "url": "https://misdake.github.io/ChipAnnotationData10/Tonga"
   },
   {
@@ -44,7 +41,6 @@
     "type": "GPU",
     "family": "GCN4",
     "name": "Polaris23",
-    "listname": "Polaris23",
     "url": "https://misdake.github.io/ChipAnnotationData10/Polaris23"
   },
   {
@@ -52,7 +48,6 @@
     "type": "GPU",
     "family": "",
     "name": "Kongming",
-    "listname": "Kongming",
     "url": "https://misdake.github.io/ChipAnnotationData10/Kongming"
   },
   {
@@ -60,23 +55,22 @@
     "type": "CPU",
     "family": "ArrowLake",
     "name": "ArrowLake_HiRes",
-    "listname": "ArrowLake_HiRes",
-    "url": "https://misdake.github.io/ChipAnnotationData10/ArrowLake_HiRes"
+    "url": "https://misdake.github.io/ChipAnnotationData10/ArrowLake_HiRes",
+    "listname": "ArrowLake HiRes"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "LunarLake",
     "name": "LunarLake_HiRes",
-    "listname": "LunarLake_HiRes",
-    "url": "https://misdake.github.io/ChipAnnotationData10/LunarLake_HiRes"
+    "url": "https://misdake.github.io/ChipAnnotationData10/LunarLake_HiRes",
+    "listname": "LunarLake HiRes"
   },
   {
     "vendor": "Intel",
     "type": "GPU",
     "family": "DG1",
     "name": "DG1",
-    "listname": "DG1",
     "url": "https://misdake.github.io/ChipAnnotationData10/DG1"
   },
   {
@@ -84,7 +78,6 @@
     "type": "GPU",
     "family": "DG2",
     "name": "DG2-128",
-    "listname": "DG2-128",
     "url": "https://misdake.github.io/ChipAnnotationData10/DG2-128"
   },
   {
@@ -108,7 +101,6 @@
     "type": "GPU",
     "family": "Ada",
     "name": "AD103",
-    "listname": "AD103",
     "url": "https://misdake.github.io/ChipAnnotationData10/AD103"
   },
   {
@@ -116,7 +108,6 @@
     "type": "GPU",
     "family": "Ada",
     "name": "AD107",
-    "listname": "AD107",
     "url": "https://misdake.github.io/ChipAnnotationData10/AD107"
   },
   {
@@ -124,7 +115,6 @@
     "type": "GPU",
     "family": "Ampere",
     "name": "GA107",
-    "listname": "GA107",
     "url": "https://misdake.github.io/ChipAnnotationData10/GA107"
   },
   {
@@ -132,7 +122,6 @@
     "type": "GPU",
     "family": "Blackwell",
     "name": "GB203",
-    "listname": "GB203",
     "url": "https://misdake.github.io/ChipAnnotationData10/GB203"
   },
   {
@@ -140,7 +129,6 @@
     "type": "GPU",
     "family": "Volta",
     "name": "NVSwitch",
-    "listname": "NVSwitch",
     "url": "https://misdake.github.io/ChipAnnotationData10/NVSwitch"
   },
   {
@@ -148,7 +136,6 @@
     "type": "SoC",
     "family": "",
     "name": "Orin",
-    "listname": "Orin",
     "url": "https://misdake.github.io/ChipAnnotationData10/Orin"
   },
   {
@@ -156,7 +143,6 @@
     "type": "SoC",
     "family": "",
     "name": "Thor",
-    "listname": "Thor",
     "url": "https://misdake.github.io/ChipAnnotationData10/Thor"
   }
 ]

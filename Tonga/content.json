@@ -5,7 +5,7 @@
   "name": "Tonga",
   "githubRepo": "misdake/ChipAnnotationData10",
   "githubIssueId": 10,
-  "source": "https://space.bilibili.com/374034429/dynamic",
+  "source": "https://www.bilibili.com/video/BV1JYubzdEf4/",
   "createTime": "Jul 12, 2025 10:52:56 AM",
   "width": 9645,
   "height": 11858,
@@ -44,5 +44,8 @@
     }
   ],
   "widthMillimeter": 17.47,
-  "heightMillimeter": 21.4
+  "heightMillimeter": 21.4,
+  "imageAuthorName": "万扯淡",
+  "imageAuthorUrl": "https://space.bilibili.com/374034429",
+  "specUrl": "https://www.techpowerup.com/gpu-specs/amd-tonga.g768"
 }
